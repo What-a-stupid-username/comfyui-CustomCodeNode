@@ -1,6 +1,8 @@
 # comfyui-CustomCodeNode
 
- Provide custom nodes to let you write Python code snips directly in the ComfyUI web ui.
+Provide custom nodes to let you write Python code snips directly in the ComfyUI web ui.
+
+Writing a plugin to implement some less universal small functions is really **too** troublesome.
 
 ## Usage
 
